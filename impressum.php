@@ -35,8 +35,8 @@
             <p>
                 FNorden e.V.<br/>
                 Ansprechpartner für den Bereich am Steinhuder Meer: Manuel Kock<br />
-                Glockseestra&szlig;e 35<br />
-                30169 Hannover
+                Burgweg 5<br />
+                30419 Hannover
             </p>
             <h2>Kontakt:</h2>
             <br>
