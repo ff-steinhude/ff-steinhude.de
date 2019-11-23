@@ -1,0 +1,41 @@
+{
+  "name": "Freifunk am Steinhuder Meer",
+  "url": "https://ff-steinhude.de",
+  "location": {
+    "city": "Steinhuder Meer Region",
+    "country": "DE",
+    "lat": 52.48,
+    "lon": 9.35,
+    "address": {
+      "Name": "@leinelab",
+      "Street": "Glockseestraße 35",
+      "Zipcode": "30169"
+    }
+  },
+  "contact": {
+    "email": "info@ff-steinhude.de",
+    "facebook": "https://www.facebook.com/FFamStM"
+  },
+  "metacommunity": "Freifunk Hannover",
+  "state": {
+    "nodes": 250,
+    "focus": [
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2019-03-26T11:13:49.266Z"
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "Gluon",
+      "url": "https://hannover.freifunk.net/download/?dir=Router-Firmware",
+      "docs": "https://hannover.freifunk.net/wiki/Freifunk/FirmwareReleases",
+      "vpnaccess": "mail"
+    },
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  },
+  "api": "0.4.14"
+}
