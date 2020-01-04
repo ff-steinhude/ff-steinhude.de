@@ -33,7 +33,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Schritt 1. <span class="text-muted">Beschaffung der Hardware.</span></h2>
-          <p class="lead">Wenn du dich dazu entscheidest beim Freifunk mitzumachen, hast du anfangs die Qual der Wahl beim Aussuchen eines Routers. Für den schmalen Geldbeutel empfehlen wir den TP-Link TL-WR841N f&uuml;r knapp 20 €. Wenn es etwas mehr kosten darf, raten wir zu dem leistungsf&auml;higeren TP-Link TL-WR1043ND ab 50€. </p>
+          <p class="lead">Wenn du dich dazu entscheidest beim Freifunk mitzumachen, hast du anfangs die Qual der Wahl beim Aussuchen eines Routers. Als hilfe kannst du dir die Liste des Freifunk Hannovers zur Hilfe nehmen: <a href="https://hannover.freifunk.net/wiki/Freifunk/Router"> Empholene Router Modelle beim Freifunk Hannover</a><br>Dringend abraten müssen wir u.A. vom TP-Link TL-WR841N/ND und anderen Geräten, die nur 4MB Flash und/oder 32MB Ram besitzen. Aufgrund der aktuellen Firmware Entwicklung können diese Geräte aufgrund der knappen Speicher Ressourcen in Zukunft nicht mehr mit einer aktuellen Firmware versorgt werden.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="img/mitmachen_00.jpg" alt="Generic placeholder image">
