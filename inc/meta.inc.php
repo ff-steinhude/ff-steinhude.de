@@ -19,11 +19,15 @@
 
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
-      <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-      <script type="text/javascript">
-          window.cookieconsent_options = {"message":"Diese Website nutzt Cookies um, das Surfverhalten zu verbessern.","dismiss":"Verstanden!","learnMore":"Mehr Infos!","link":"https://ff-steinhude.de/impressum.php","theme":"dark-bottom"};
-      </script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1bc4de8b-ea4e-4b92-8568-8f7a49e5366d" data-blockingmode="auto" type="text/javascript"></script>
+<script data-ad-client="ca-pub-7845897898534700" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129873055-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
-      <!-- End Cookie Consent plugin -->   
+  gtag('config', 'UA-129873055-5');
+</script> 
 	  
